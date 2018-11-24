@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tombi",
+"dataUrl": "Tombi-Open-GL-Releases.data.unityweb",
+"wasmCodeUrl": "Tombi-Open-GL-Releases.wasm.code.unityweb",
+"wasmFrameworkUrl": "Tombi-Open-GL-Releases.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#1098B7",
+"cacheControl": {"default": "must-revalidate"}
+}
